@@ -21,12 +21,12 @@ const menus = [
     key: "react-communication",
     route: "/communication",
     title: "通讯页",
-  },
-  {
-    key: "vue",
-    route: "/vue",
-    title: "Vue 子应用",
-  },
+  }
+  // {
+  //   key: "vue",
+  //   route: "/vue",
+  //   title: "Vue 子应用",
+  // },
 ];
 
 const BASE_NAME = window.__POWERED_BY_QIANKUN__ ? "/react" : "";

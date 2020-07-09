@@ -34,11 +34,11 @@ export default {
           route: "/communication",
           title: "通讯页"
         },
-        {
-          key: "react",
-          route: "/react",
-          title: "React 子应用"
-        }
+        // {
+        //   key: "react",
+        //   route: "/react",
+        //   title: "React 子应用"
+        // }
       ]
     }
   },

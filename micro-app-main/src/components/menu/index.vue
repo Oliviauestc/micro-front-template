@@ -40,31 +40,31 @@ export default class Menu extends Vue {
       title: "React 子应用",
       path: "/react"
     },
-    {
-      key: "VueList",
-      title: "Vue 列表页",
-      path: "/vue/list"
-    },
-    {
-      key: "ReactList",
-      title: "React 列表页",
-      path: "/react/list"
-    },
-    {
-      key: "MainCommunication",
-      title: "主应用通讯页",
-      path: "/communication"
-    },
-    {
-      key: "VueCommunication",
-      title: "Vue 通讯页",
-      path: "/vue/communication"
-    },
-    {
-      key: "ReactCommunication",
-      title: "React 通讯页",
-      path: "/react/communication"
-    },
+    // {
+    //   key: "VueList",
+    //   title: "Vue 列表页",
+    //   path: "/vue/list"
+    // },
+    // {
+    //   key: "ReactList",
+    //   title: "React 列表页",
+    //   path: "/react/list"
+    // },
+    // {
+    //   key: "MainCommunication",
+    //   title: "主应用通讯页",
+    //   path: "/communication"
+    // },
+    // {
+    //   key: "VueCommunication",
+    //   title: "Vue 通讯页",
+    //   path: "/vue/communication"
+    // },
+    // {
+    //   key: "ReactCommunication",
+    //   title: "React 通讯页",
+    //   path: "/react/communication"
+    // },
     // Angular 应用暂时未接入
     // {
     //   key: "Angular",

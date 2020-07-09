@@ -43,7 +43,7 @@ export default {
       // 未登录 - 返回主页
       if (!token) {
         this.$message.error("未检测到登录信息！");
-        return this.$router.push("/");
+        return location.pathname = "/login"
       }
       // 获取用户信息
       this.getUserInfo(token);
